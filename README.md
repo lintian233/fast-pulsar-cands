@@ -8,7 +8,7 @@ Pulsars and pulsar candidates identified in FAST archival data.
 |---|---:|---:|---|---|---|---|---|
 | J1843-0411h&#42; | 0.479486 | 300.3 | [FFT](plots/PSR01/prepfold.png) | [FFA](plots/PSR01/ffa.png) | [Single pulse](plots/PSR01/PSR01_single01.png) | [All](plots/PSR01) | — |
 | J1845-0516h | 0.154288 | 486.0 | — | [FFA](plots/PSR04/PSR04_ffa.png) | — | [All](plots/PSR04) | — |
-| J1833-0705h | 0.396887 | 475.8 | — | [FFA](plots/PSR05/PSR05_ffa.png) | — | [All](plots/PSR05) | — |
+| J1833-0705h | 0.396887 | 475.8 | [FFT](plots/PSR05/PSR05_prepfold.png) | [FFA](plots/PSR05/PSR05_ffa.png) | — | [All](plots/PSR05) | — |
 | J1852+0028h&#42; | 2.576370 | 815.8 | [FFT](plots/PSR06/PSR06_prepfold.png) | [FFA](plots/PSR06/PSR06_ffa.png) | — | [All](plots/PSR06) | — |
 | J1813-0456h | 0.437570 | 93.6 | [FFT](plots/PSR15/PSR15_prepfold.jpg) | [FFA](plots/PSR15/PSR15_ffa.jpg) | — | [All](plots/PSR15) | — |
 
